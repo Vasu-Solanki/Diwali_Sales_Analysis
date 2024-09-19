@@ -25,3 +25,7 @@ Buyer Insights Summary
 
 Conclusion: ➡️ Targeting married women aged 26-35 in IT, Healthcare, and Aviation sectors, and focusing on popular product categories like food, clothing, and electronics, can drive future sales growth.
 
+
+https://github.com/user-attachments/assets/07215f43-7afa-42ea-abab-dbe155e7dc93
+
+
