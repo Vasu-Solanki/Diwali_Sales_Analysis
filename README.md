@@ -17,10 +17,15 @@ Here's the same summary using arrow emojis as pointers:
 Buyer Insights Summary
 
 ➡️ Female Buyers Lead: 7,832 female buyers surpassed male buyers by 3,407 in purchasing power.
+
 ➡️ Age Group 26-35 Dominates: Females in the 26-35 age group were the most engaged, with 3,269 female buyers compared to 1,272 male buyers.
+
 ➡️ Top Regions: Uttar Pradesh, Maharashtra, and Karnataka stood out with significant sales and orders.
+
 ➡️ Married Women as Key Spenders: Married women made 6,518 purchases, outpacing other marital status groups with 4,721 purchases.
+
 ➡️ Top Occupations: Buyers from IT (1,583), Healthcare (1,408), and Aviation (1,320) were the most common.
+
 ➡️ Popular Product Categories: Food (2,490), Clothing (2,655), and Electronics (2,087) were the top choices.
 
 Conclusion: ➡️ Targeting married women aged 26-35 in IT, Healthcare, and Aviation sectors, and focusing on popular product categories like food, clothing, and electronics, can drive future sales growth.
